@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/MarathimoviesHdpoint')
+                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/+nE1OhsSFwfQ1Yzg1')
             ],
             [
                 InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
@@ -50,10 +50,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/MarathimoviesHdpoint'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/MarathimoviesHdpoint')
+            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/+nE1OhsSFwfQ1Yzg1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+nE1OhsSFwfQ1Yzg1')
             ],[
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/MarathimoviesHdpoint'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/+nE1OhsSFwfQ1Yzg1'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗' , callback_data='close_data')
         ]]
@@ -106,10 +106,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/MarathimoviesHdpoint'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/MarathimoviesHdpoint')
+            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/+nE1OhsSFwfQ1Yzg1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+nE1OhsSFwfQ1Yzg1')
             ],[
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/MarathimoviesHdpoint'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/+nE1OhsSFwfQ1Yzg1'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗' , callback_data='close_data')
         ]]
@@ -258,11 +258,11 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/MarathimoviesHdpoint'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/MarathimoviesHdpoint')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/+nE1OhsSFwfQ1Yzg1'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/+nE1OhsSFwfQ1Yzg1')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/MarathimoviesHdpoint')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/+nE1OhsSFwfQ1Yzg1')
         ]
         ]
     await client.send_cached_media(
