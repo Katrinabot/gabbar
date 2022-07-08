@@ -6,7 +6,7 @@ class script(object):
 ✴️ ɪ ᴡɪʟʟ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ ᴛʜᴇʀᴇ
 ✴️ᴛʜᴇ ꜱᴇᴇ ᴍy ᴩᴏᴡᴇʀꜱ ɪɴ yᴏᴜʀ ɢʀᴏᴜᴩ😎
 
-©️ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙy : @Updatesallmovies ☺
+©️ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙy : unknown ☺
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 """
@@ -31,13 +31,13 @@ class script(object):
 """
     ABOUT_TXT = """𝐌𝐲 𝐍𝐚𝐦𝐞 : {}
 
-🦁 ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Updatesallmovies>🦁</a>
+🦁 ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/+nE1OhsSFwfQ1Yzg1>🦁</a>
 
 🌀 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 
 🌀 ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ 
 
-🌀 sᴜᴘᴘᴏʀᴛᴇᴅ sɪᴛᴇ : ᴏɴʟʏ ᴛᴇʟᴇɢʀᴀᴍ
+🌀 sᴜᴘᴘᴏʀᴛᴇᴅ sɪᴛᴇ : -----
 
 🌀 sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
 
