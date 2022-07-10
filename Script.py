@@ -6,7 +6,7 @@ class script(object):
 ✴️ ɪ ᴡɪʟʟ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ ᴛʜᴇʀᴇ
 ✴️ᴛʜᴇ ꜱᴇᴇ ᴍy ᴩᴏᴡᴇʀꜱ ɪɴ yᴏᴜʀ ɢʀᴏᴜᴩ😎
 
-©️ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙy : unknown ☺
+©️ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙy : @Found_errors ☺
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 """
@@ -31,7 +31,7 @@ class script(object):
 """
     ABOUT_TXT = """𝐌𝐲 𝐍𝐚𝐦𝐞 : {}
 
-🦁 ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/+nE1OhsSFwfQ1Yzg1>🦁</a>
+🦁 ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Found_errors>🦁</a>
 
 🌀 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 
